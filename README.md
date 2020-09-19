@@ -17,3 +17,7 @@ Heroku App Link: https://floating-eyrie-50408.herokuapp.com/index
 - Sequelize
 - Handlebars
 - Unicode-emoji
+
+# Screenshot
+
+<img width="1634" alt="Screen Shot 2020-09-19 at 12 07 47 PM" src="https://user-images.githubusercontent.com/64648897/93671409-c9f85e00-fa70-11ea-962c-d388df6ffd60.png">
